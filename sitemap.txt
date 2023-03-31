@@ -1,7 +1,10 @@
+https://macat33.github.io/2023/03/31/hexo%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/
+https://macat33.github.io/tags/index.html
+https://macat33.github.io/2023/03/30/hello-world/
 https://macat33.github.io/link/index.html
 https://macat33.github.io/archives/index.html
 https://macat33.github.io/about/index.html
 https://macat33.github.io/categories/index.html
-https://macat33.github.io/tages/index.html
-https://macat33.github.io/2023/03/30/hello-world/
 https://macat33.github.io/
+https://macat33.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/
+https://macat33.github.io/categories/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/
